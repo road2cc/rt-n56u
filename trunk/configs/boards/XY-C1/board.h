@@ -1,6 +1,6 @@
 /* XZB */
 
-#define BOARD_PID		  "XZB"
+#define BOARD_PID		  "XY-C1"
 #define BOARD_NAME		"XZB (TimeCloud)"
 #define BOARD_DESC		"Xunlei XZB (TimeCloud)"
 #define BOARD_VENDOR_NAME	"Xunlei(Shenzheng) Limited"
